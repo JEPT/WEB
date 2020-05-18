@@ -1,0 +1,33 @@
+body {
+	background: url(../imagenes/fondo.png);/*Imagen de fondo */
+	color: black;
+	}
+h1 {
+	background-image: url(../imagenes/luz.gif);
+	background-position: center;
+	background-size: cover;
+	color: transparent;
+	-moz-background-clip: text;
+	-webkit-background-clip: text;
+	text-transform: uppercase;
+	text-align: center;
+	align-items: center;
+	font-size: 120px;
+	margin-top: 10px;
+	border: 10px outset rgb(228,231,230);
+	/*background: aqua;
+	font-size: 60px;
+	font-weight: bolder;
+	color:rgb(232,16,125,.9);
+	align-items: center;
+	text-shadow: 5px 2px 4px grey;
+	margin-top: 10px;
+	border: 15px outset rgb(228,231,230);*/
+	}
+div{
+	height: 100px;
+	width: 150px;
+	background: white;
+	margin: 20px 50px;
+	border: 10px outset rgb(228,231,230);
+}
